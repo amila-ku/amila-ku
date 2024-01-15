@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **OpenTelemetry**
 
-- 📝 I regularly write articles on [https://cndev.hashnode.dev/](https://cndev.hashnode.dev/)
+- 📝 I regularly write articles on [https://blog.devops.lk/](https://blog.devops.lk/) & [https://cndev.hashnode.dev/](https://cndev.hashnode.dev/)
 
 - 💬 Ask me about **Golang, AWS, Kubernetes**
 
