@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Don</h1>
-<h3 align="center">A passionate about Software Engineering, Site Reliability Engineering & DevOps. I have worked with AWS, Kubernetes for more than 8 years. I prefer Python, Golang and has built multiple systems that automate infrastructure management, load testing & vulnerability scanning. I plan to engage & contribute in a open source project. So far i have done some random contributions in Zalando-ingress-controller, aws golang samples.</h3>
+<h3 align="center">A passionate about Software Engineering, Site Reliability Engineering & DevOps. I have worked with AWS, Kubernetes for more than 8 years. I have built multiple systems that automate infrastructure management, load testing & vulnerability scanning. I prefer Python, Golang. I plan to engage & contribute in a open source project. So far i have done some random contributions in Zalando-ingress-controller, aws golang samples.</h3>
 
 - 🔭 I’m currently working on **Webup**
 
